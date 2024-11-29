@@ -6,14 +6,12 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
 
 ## MAPS
 
-> **MAIN ISLAND:**
-> A large minecraft world with a village, and all of the webfishing stores/buildings
->
+> **MAIN ISLAND:** A large minecraft world with a village, and all of the webfishing stores/buildings
+
 > ![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/MainIsland.gif)
 
-> **TINY ISLAND:**
-> A huge nether map, fit with bounce mushrooms to help you get around
->
+**TINY ISLAND:** A huge nether map, fit with bounce mushrooms to help you get around
+
 > ![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/Nether.jpg)
 
 ## TITLES
@@ -53,21 +51,21 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
 ## FISH & LOOT
 
 > **Ocean Fish:**
-> - Coal
-> - Iron Bar
-> - Gold Bar
-> - Redstone
-> - Lapis Lazuli
-> - Diamond
-> - Emerald
-> - Ruby
-> - Netherite Bar
-> - Puffer Fish
-> - Normal Minecraft Fish
-> - Sea Pickle
+- Coal
+- Iron Bar
+- Gold Bar
+- Redstone
+- Lapis Lazuli
+- Diamond
+- Emerald
+- Ruby
+- Netherite Bar
+- Puffer Fish
+- Normal Minecraft Fish
+- Sea Pickle
 
 > **Void Fish:**
-> - Ruby
+- Ruby
 
 ## METAL DETECTOR LOOT
 
@@ -75,11 +73,11 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
 
 - There are metal detector spots all over the island, but to make it easy on you guys, there's 3 spots placed in the village you spawn in.
 
-> - Eye of ender
-> - Nether Star
-> - Golden Apple
-> - Turtle Egg
-> - XP Bottle
+- Eye of ender
+- Nether Star
+- Golden Apple
+- Turtle Egg
+- XP Bottle
  
 
 # FUTURE UPDATES:
