@@ -83,7 +83,7 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
  
 
 # FUTURE UPDATES:
-The mod started to corrupt towards the end, and no matter what I tried I couldn't get it to work. It was already finished when the issues started happening I'm going to have to rebuild the mod from scratch for future updates, which will include:
+The mod started to corrupt towards the end, and no matter what I tried I couldn't get it to work. It was already finished the first version of the mod when the issues started happening, so I went ahead and published that version. I'm going to have to rebuild the mod from scratch for future updates, which will include:
 
 - Custom medium and large private islands
 - More fish and loot
