@@ -6,13 +6,13 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
 
 ## MAPS
 
-> **MAIN ISLAND:** A large minecraft world with a village, and all of the webfishing stores/buildings
+**MAIN ISLAND:** A large minecraft world with a village, and all of the webfishing stores/buildings
 
-> ![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/MainIsland.gif)
+![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/MainIsland.gif)
 
 **TINY ISLAND:** A huge nether map, fit with bounce mushrooms to help you get around
 
-> ![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/Nether.jpg)
+![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/Nether.jpg)
 
 ## TITLES
 
