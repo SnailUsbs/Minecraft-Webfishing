@@ -18,8 +18,6 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
 
 ## TITLES
 
-![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Spawn%20Area.png)
-
 - Minecraft
 - _Jeb
 - Johnny
@@ -28,7 +26,7 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
 
 ## PROPS
 
-![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Spawn%20Area.png)
+![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/Props.gif)
 
 - Grass block
 - Cobblestone
@@ -46,11 +44,11 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
   
 - Slime block that works like a bounce mushroom (You can place it anywhere like normal props)
 
-- ![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/Slimeblockprop.gif)
+![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/Slimeblockprop.gif)
   
 - HUGE version of minecraft's Debug texture (Not solid, so you can walk through it)
 
-- ![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/Debugprop.gif)
+![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/Debugprop.gif)
 
 ## FISH & LOOT
 
@@ -71,7 +69,7 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
 > **Void Fish:**
 > - Ruby
 
-> **METAL DETECTER LOOT:**
+## METAL DETECTOR LOOT
 
 ![](https://github.com/SnailUsbs/Minecraft-Webfishing/blob/main/showcase/Lootin.gif)
 
