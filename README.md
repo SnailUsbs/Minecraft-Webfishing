@@ -1,6 +1,9 @@
 # Minecraft-Webfishing
 A webfishing mod that adds a ton of Minecraft related content into multiple corners of the game.
 
+The file is too big to upload here, so instead you can get it from thunderstore; https://thunderstore.io/c/webfishing/p/SnailUSB/Minecraft/
+
+If you want to see the raw files, use GDRE tools to decompile it
 
 # FEATURES
 
