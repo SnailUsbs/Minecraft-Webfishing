@@ -3,7 +3,7 @@ A webfishing mod that adds a ton of Minecraft related content into multiple corn
 
 The file is too big to upload here, so instead you can get it from thunderstore; https://thunderstore.io/c/webfishing/p/SnailUSB/Minecraft/
 
-If you want to see the raw files, use GDRE tools to decompile it
+If you want to see the raw files, use GDRE tools to decompile it. Feel free to look into my mod to figure out how to make your own.
 
 # FEATURES
 
