@@ -83,15 +83,26 @@ If you want to see the raw files, use GDRE tools to decompile it. Feel free to l
 - XP Bottle
  
 
-# FUTURE UPDATES:
-The mod started to corrupt towards the end, and no matter what I tried I couldn't get it to work. I already finished the first version of the mod when the issues started happening, so I went ahead and published that version. I'm going to have to rebuild the mod from scratch for future updates, which will include:
+# v1.0.3 CHANGELOG
 
-- Custom medium and large private islands
-- More fish and loot
-- Minecraft sound tracks
-- Music box prop to play minecraft tracks
-- Nether portal prop
-- More props
+> **NEW FEATURES:** 
+> - Added a nether portal prop that will you take you the nether (a custom tiny private island)
+
+> **NEW FISH:**
+> - Bee (I thought it was funny to make it a fish, idk im just a chill guy)
+> - Salmon
+> - Cod
+> - Heart of the sea
+
+> **NEW METAL DETECTOR LOOT:**
+> - nautilus shell
+> - Diamond Sword
+> - Diamond Pickaxe
+
+> **FIXES / CHANGES:**
+> - Made all fish more common, while keeping everything else about them the same
+> - Fixed the dinnerbone tag that wasn't appearing (Forgot to add the lure line of code for it)
+> - Fixed missing totem from metal detector loot
 
 # Snail's stuff
 
